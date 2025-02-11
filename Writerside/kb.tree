@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="kb"
+                 name="kotlin bible"
+                 start-page="splashscreen.md">
+
+    <toc-element topic="splashscreen.md"/>
+    <toc-element topic="CustomFonts.md"/>
+    <toc-element topic="Navigation-in-Compose.md"/>
+    <toc-element topic="Nested-Routes.md"/>
+    <toc-element topic="onbordingscreen.md"/>
+</instance-profile>
